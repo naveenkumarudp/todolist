@@ -1,4 +1,3 @@
-(No title)
 const items = ['Javascript','HTML','CSS','Tailwind CSS','Bootstrap','Angular','React','NextJs','TypeScript']
 
  
